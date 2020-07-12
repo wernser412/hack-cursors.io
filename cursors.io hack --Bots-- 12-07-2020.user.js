@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         cursors.io hack --Bots-- 12/07/2020
 // @namespace    wernser412
-// @version      2.0.3
+// @version      1.0
 // @description  cursorsio hack 
 // @author       ZursOr
 // @match        http://cursors.io/
