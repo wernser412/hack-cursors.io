@@ -1,3 +1,3 @@
-# Hack-cursors.io (12/07/2020)
+# Hack Cursors.io (12/07/2020)
 
 ![Screenshot](Hack.png?raw=true )</p>
