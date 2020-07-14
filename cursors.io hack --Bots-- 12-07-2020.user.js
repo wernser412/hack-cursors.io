@@ -3,7 +3,7 @@
 // @namespace    wernser412
 // @version      1.0
 // @description  cursorsio hack 
-// @author       ZursOr
+// @author       wernser412
 // @match        http://cursors.io/
 // @grant        none
 // @run-at       document-idle
