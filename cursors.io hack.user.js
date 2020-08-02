@@ -8,6 +8,7 @@
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
+
 document.getElementById('noCursorLock').checked=!0;
 if (location.search.indexOf('editor')==-1){let canvas=document.getElementById('canvas'),wsSend=WebSocket.prototype.send;WebSocket.prototype.send=function(){this.close();WebSocket.prototype.send=wsSend;init();};let ev=new MouseEvent('mousedown',{bubbles:true});for(let i=0;i<2;++i){canvas.dispatchEvent(ev)}}else{init()};
 async function init(){var ip='ws://'+JSON.parse(await (await fetch('http://api.n.m28.io/endpoint/cursors/findEach')).text()).servers['digitalocean-sfo'].ipv4+':2828';
