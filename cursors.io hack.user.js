@@ -2,7 +2,7 @@
 // @name         cursors.io hack
 // @namespace    wernser412
 // @version      2.0
-// @description  cursorsio hack
+// @description  cursors.io hack
 // @author       wernser412
 // @match        http://cursors.io/
 // @grant        none
