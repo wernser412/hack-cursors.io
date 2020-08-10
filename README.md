@@ -1,4 +1,4 @@
-# Hack Cursors.io (02/08/2020)
+# Hack Cursors.io (10/08/2020)
 
 1. Press F1 to enable/disable movement
 2. Press F2 to enable/disable the WallHack
