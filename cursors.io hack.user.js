@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         cursors.io hack
 // @namespace    wernser412
-// @version      3.0
+// @version      4.0
 // @description  cursors hack
 // @author       wernser412
 // @match        http://cursors.io/
