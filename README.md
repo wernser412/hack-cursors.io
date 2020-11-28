@@ -43,4 +43,4 @@ Tampermonkey --> https://github.com/wernser412/Hack-Cursors.io/raw/master/cursor
 
 ![Screenshot](hack2.png?raw=true )</p>
 
-* Script edited by IceWolf, DISCORD: Hackkk#0001 *
+* Script edited by IceWolf, DISCORD: Hackkk#0001 
