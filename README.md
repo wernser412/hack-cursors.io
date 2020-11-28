@@ -30,3 +30,11 @@
 16. Image 16 - Numpad Enter
 
 ![Screenshot](hack.png?raw=true )</p>
+
+# important
+
+1. Use adguard extension --- https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg?hl=es
+2. setting -> user rules
+3. to write "http://cursors.io/client_out.js"
+
+![Screenshot](hack2.png?raw=true )</p>
