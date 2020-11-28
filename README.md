@@ -42,3 +42,5 @@ Tampermonkey --> https://github.com/wernser412/Hack-Cursors.io/raw/master/cursor
 3. to write "http://cursors.io/client_out.js"
 
 ![Screenshot](hack2.png?raw=true )</p>
+
+* Script edited by IceWolf, DISCORD: Hackkk#0001 *
