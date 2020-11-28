@@ -31,7 +31,7 @@
 
 ![Screenshot](hack.png?raw=true )</p>
 
-# important
+# Important
 
 1. Use adguard extension --- https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg?hl=es
 2. setting -> user rules
