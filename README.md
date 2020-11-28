@@ -1,5 +1,9 @@
 # Hack Cursors.io (27/11/2020)
 
+cursors.io hack.user.js
+
+Tampermonkey --> https://github.com/wernser412/Hack-Cursors.io/raw/master/cursors.io%20hack.user.js
+
 1. Press F1 to enable/disable movement
 2. Press F2 to enable/disable the WallHack
 3. Press F3 to deploy a bot
