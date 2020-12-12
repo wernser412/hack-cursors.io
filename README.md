@@ -1,4 +1,4 @@
-# Hack Cursors.io (03/12/2020)
+# Hack Cursors.io (12/12/2020)
 
 cursors.io hack.user.js
 
