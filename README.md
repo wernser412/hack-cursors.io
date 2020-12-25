@@ -4,7 +4,7 @@ Install in Tampermonkey:
 
 https://github.com/wernser412/Hack-Cursors.io/raw/master/cursors.io%20hack.user.js
 
--Keys
+- Keys
 
 1. Press F1 to enable/disable movement
 2. Press F2 to enable/disable the WallHack
