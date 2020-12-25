@@ -1,6 +1,7 @@
 # Hack Cursors.io (25/12/2020)
 
 Install in Tampermonkey:
+
 https://github.com/wernser412/Hack-Cursors.io/raw/master/cursors.io%20hack.user.js
 
 1. Press F1 to enable/disable movement
