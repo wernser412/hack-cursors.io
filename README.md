@@ -45,4 +45,3 @@ https://github.com/wernser412/Hack-Cursors.io/raw/master/cursors.io%20hack.user.
 
 ![Screenshot](hack2.png?raw=true )</p>
 
-* Script edited by IceWolf, DISCORD: Hackkk#0001 
