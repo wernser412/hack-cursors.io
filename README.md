@@ -16,7 +16,7 @@ https://github.com/wernser412/Hack-Cursors.io/raw/master/cursors.io%20hack.user.
 8. Press F8 to change your current view
 9. Press F11 to show these controls and features in-game
 
-- Keys image (On computer without Numpad use left arrow key)
+## Keys image (On computer without Numpad use left arrow key)
 
 1. Image 1 - Numpad 0
 2. Image 2 - Numpad 1
@@ -37,7 +37,7 @@ https://github.com/wernser412/Hack-Cursors.io/raw/master/cursors.io%20hack.user.
 
 ![Screenshot](hack.png?raw=true )</p>
 
-# Important
+## Important
 
 1. Use adguard extension --- https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg?hl=es
 2. setting -> user rules
