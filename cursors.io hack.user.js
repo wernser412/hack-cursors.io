@@ -1,10 +1,8 @@
 // ==UserScript==
-// @name         cursors.io hack
-// @namespace    wernser412
-// @version      5.0
-// @description  cursors hack
+// @name         Cursors.io hack
 // @author       wernser412
-// @match        http://cursors.io/
+// @version      6.0
+// @match        *://cursors.io/*
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
