@@ -1,4 +1,4 @@
-# Hack Cursors.io (28/12/2020)
+# Hack Cursors.io (9/1/2021)
 
 Install in Tampermonkey:
 
